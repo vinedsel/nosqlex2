@@ -1,0 +1,40 @@
+{
+ "acceptedEulaVersions" : [
+  "1.1.1"
+ ],
+ "anonymousID" : "f020a083-67cc-4b41-bec3-80d581b3b485",
+ "autoExec" : false,
+ "autoExpand" : false,
+ "autocompletionMode" : 1,
+ "batchSize" : 50,
+ "cacheData" : {
+  "wtImage1LastModifiedDate" : "2017-06-14T06:41:59Z",
+  "wtRssLastModifiedDate" : "NotImplemented",
+  "wtText1LastModifiedDate" : "2017-06-14T12:19:11Z"
+ },
+ "checkForUpdates" : true,
+ "connections" : [
+
+ ],
+ "disableConnectionShortcuts" : false,
+ "imported" : false,
+ "lineNumbers" : false,
+ "loadMongoRcJs" : false,
+ "minimizeToTray" : false,
+ "mongoTimeoutSec" : 10,
+ "shellTimeoutSec" : 15,
+ "style" : "Macintosh",
+ "textFontFamily" : "",
+ "textFontPointSize" : -1,
+ "timeZone" : 0,
+ "toolbars" : {
+  "connect" : true,
+  "exec" : true,
+  "explorer" : true,
+  "logs" : false,
+  "open_save" : true
+ },
+ "uuidEncoding" : 0,
+ "version" : "2.0",
+ "viewMode" : 1
+}

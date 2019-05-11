@@ -1,0 +1,17 @@
+Robomongo is now Robo 3T
+<br/>
+We are very happy to announce the release of Robo 3T 1.1 !<br/>
+</br><br/>
+
+What's new in this release:<br/>
+&mdash; MongoDB 3.4 support<br/>
+&mdash; New NumberDecimal (Decimal128) data type support<br/>
+&mdash; ECMAScript 2015 aka ES6 Support (Modernized JavaScript Implementation)<br/>
+&mdash; Renaming Robomongo to Robo 3T<br/>
+&mdash; Shell timeout is configurable on UI now 'Options->Change Shell Timeout'<br/>
+&mdash; Fix for Robo 3T Shell Timeout Issue (silently, prematurely finishing long lasting scripts)<br/>
+&mdash; Stability Improvement: Fix included to prevent a on start crash on MACOS Sierra<br/>
+&mdash; Security Improvement: OpenSSL version upgrade to openssl-1.0.1u (22-Sep-2016)<br/>
+&mdash; Tool chain upgrades: Modern C++14 features are enabled and usable for developers<br/>
+<br/>
+<a style="color: #106CD6;" href="http://blog.robomongo.org/robomongo-is-robo-3t/">Read more online...</a>
